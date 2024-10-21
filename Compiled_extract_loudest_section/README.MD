@@ -5,6 +5,6 @@ gen/
   bin/
     (unix executable file here)
   obj/
-    wav_io.o
+    (wav_io.o
     status.o
-    main.o
+    main.o)
